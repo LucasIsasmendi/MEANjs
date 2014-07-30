@@ -1,0 +1,15 @@
+{
+  "name": "Multivision",
+  "version": "0.0.0",
+  "description": "Extremen Tech Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Isasmendi",
+  "license": "Empoderar SRL",
+  "dependencies": {
+    "express": "^3.4.4",
+    "jade": "^1.5.0"
+  }
+}
