@@ -3,7 +3,7 @@ body {
 }
 .navbar-header a.navbar-brand {
   margin-top: -15px;
-  margin-botton: -20px;
+  margin-bottom: -20px;
 }
 .navbar-header a.navbar-brand h6 {
   color: #ccc;
